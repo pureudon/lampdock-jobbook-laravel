@@ -1,0 +1,8 @@
+*.pyc
+.idea/
+*.db
+.DS_Store
+.vscode/
+mysql/db_data/*
+mysql/db_dump/*
+web/*
